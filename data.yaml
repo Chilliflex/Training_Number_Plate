@@ -1,0 +1,10 @@
+train: C:\Users\pande\OneDrive\License Plate Recognition\License Plate Recognition.v4-resized640_aug3x-accurate.yolov8\train
+val: C:\Users\pande\OneDrive\License Plate Recognition\License Plate Recognition.v4-resized640_aug3x-accurate.yolov8\valid
+test: C:\Users\pande\OneDrive\License Plate Recognition\License Plate Recognition.v4-resized640_aug3x-accurate.yolov8\test
+
+nc: 1
+
+# Class names
+names:
+  0: license_plate
+
